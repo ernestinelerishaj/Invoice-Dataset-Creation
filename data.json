@@ -1,0 +1,802 @@
+[
+    {
+        "invoice_number": "91927",
+        "invoice_date": "31.08.2020",
+        "invoice_amount": "737.91",
+        "buyer_gstin": "11noTJv848045Z6",
+        "supplier_gstin": "34cwile407422Z5",
+        "text": "Supplier: Patrick, Dunlap and Washington INVOICE\nInvoice# 91927\nDate: 31.08.2020\nBill to: Gregory LLC 3917 Fisher Avenue Suite 818\nScottburgh, UT 66410 GSTIN: 11noTJv848045Z6\nSL. Item Description Price Qty. Total\n1 Switchable tertiary task-force $705.02 1 $705.02\nTotal $737.91\nSupplier GSTIN: 34cwile407422Z5\nPayment: Howard, Griffin and Anderson A/C 757259078"
+    },
+    {
+        "invoice_number": "16001",
+        "invoice_date": "02.09.2022",
+        "invoice_amount": "827.72",
+        "buyer_gstin": "07JJBjG475647Z6",
+        "supplier_gstin": "36aOGFk029158Z1",
+        "text": "Invoice Summary\nNumber: 16001\nDate: 02.09.2022\nBilled To: Welch-Villarreal GSTIN: 07JJBjG475647Z6\nItems:\n1 Reverse-engineered heuristic structure $243.27 3 $729.81\nSubtotal: $729.8100000000001\nTotal Amount: $827.72\nSupplier GSTIN: 36aOGFk029158Z1\n"
+    },
+    {
+        "invoice_number": "96505",
+        "invoice_date": "2023-12-04",
+        "invoice_amount": "4274.67",
+        "buyer_gstin": "03WzLPa280951Z2",
+        "supplier_gstin": "12tLADJ433823Z9",
+        "text": "Davis Group Invoice\nInvoice# 96505\nInvoice Date: 2023-12-04\nTo: Meyer, Hardin and Smith, GSTIN: 03WzLPa280951Z2\nDetails:\n1 Enhanced 4thgeneration circuit $259.88 2 $519.76\n2 Enhanced dynamic moderator $726.05 5 $3630.25\nSubtotal: $4150.01\nTotal: $4274.67\nSupplier GSTIN: 12tLADJ433823Z9\n"
+    },
+    {
+        "invoice_number": "18034",
+        "invoice_date": "06 / 04 / 2021",
+        "invoice_amount": "5048.97",
+        "buyer_gstin": "25YGuIL301170Z3",
+        "supplier_gstin": "07RYJiG045253Z5",
+        "text": "INVOICE\nInvoice# 18034\nInvoice to: Scott-Jones, 1517 Timothy Ports Apt. 701\nHeatherside, FM 22670 GSTIN: 25YGuIL301170Z3\nDate: 06 / 04 / 2021\nSL. Item Description Price Qty. Total\n1 Switchable fault-tolerant collaboration $958.92 5 $4794.6\n2 Ameliorated cohesive paradigm $147.44 1 $147.44\nSubtotal $4942.039999999999\nTax $2.16%\nTotal $5048.97\nBuyer GSTIN: 25YGuIL301170Z3\nSupplier GSTIN: 07RYJiG045253Z5"
+    },
+    {
+        "invoice_number": "16012",
+        "invoice_date": "06.02.2021",
+        "invoice_amount": "247.0",
+        "buyer_gstin": "09BtmlH736214Z7",
+        "supplier_gstin": "18oTBFS077994Z9",
+        "text": "INVOICE\nInvoice# 16012\nInvoice to: Evans-Foster, 0684 Dawn Fork\nNew Christine, OR 92261 GSTIN: 09BtmlH736214Z7\nDate: 06.02.2021\nSL. Item Description Price Qty. Total\n1 Upgradable grid-enabled migration $111.64 2 $223.28\nSubtotal $223.28\nTax $10.62%\nTotal $247.0\nBuyer GSTIN: 09BtmlH736214Z7\nSupplier GSTIN: 18oTBFS077994Z9"
+    },
+    {
+        "invoice_number": "62016",
+        "invoice_date": "2022-06-03",
+        "invoice_amount": "8846.09",
+        "buyer_gstin": "34uUPQH672625Z7",
+        "supplier_gstin": "18mAFLw183709Z7",
+        "text": "Sparks and Sons Invoice\nInvoice# 62016\nInvoice Date: 2022-06-03\nTo: Fleming LLC, GSTIN: 34uUPQH672625Z7\nDetails:\n1 Programmable dynamic conglomeration $734.24 4 $2936.96\n2 Right-sized zero tolerance help-desk $916.91 1 $916.91\n3 Cloned incremental knowledgebase $941.5 5 $4707.5\nSubtotal: $8561.37\nTotal: $8846.09\nSupplier GSTIN: 18mAFLw183709Z7\n"
+    },
+    {
+        "invoice_number": "69230",
+        "invoice_date": "13-03-2023",
+        "invoice_amount": "9603.9",
+        "buyer_gstin": "26UVEpm047549Z3",
+        "supplier_gstin": "09pOKCI731628Z6",
+        "text": "Fox Inc Invoice\nInvoice# 69230\nInvoice Date: 13-03-2023\nTo: Morris Group, GSTIN: 26UVEpm047549Z3\nDetails:\n1 Switchable client-driven emulation $856.71 5 $4283.55\n2 Reduced stable neural-net $996.91 1 $996.91\n3 Balanced high-level concept $716.82 5 $3584.1\nSubtotal: $8864.560000000001\nTotal: $9603.9\nSupplier GSTIN: 09pOKCI731628Z6\n"
+    },
+    {
+        "invoice_number": "42378",
+        "invoice_date": "2023-09-06",
+        "invoice_amount": "705.87",
+        "buyer_gstin": "05ihgjD263927Z2",
+        "supplier_gstin": "09voaCm603610Z1",
+        "text": "Tech Innovations INVOICE\nInvoice# 42378\nDate: 2023-09-06\nTo: Wise-Hall GSTIN: 05ihgjD263927Z2\nSL. Item Description Price Qty. Total\n1 Inverse mission-critical contingency $255.89 1 $255.89\n2 Balanced systemic definition $356.55 1 $356.55\nSubtotal $612.44\nTotal $705.87\nSupplier Details: Perry Group GSTIN: 09voaCm603610Z1\nPayment Terms: Net 30 days"
+    },
+    {
+        "invoice_number": "79430",
+        "invoice_date": "2024-07-10",
+        "invoice_amount": "2704.87",
+        "buyer_gstin": "23dIoVt929916Z1",
+        "supplier_gstin": "33kWZaf032901Z6",
+        "text": "Brand Rivera, Morales and Castro INVOICE\nInvoice to: Cole-Burns, 8914 Becker Field Suite 375\nLake Kimberly, NC 39974 GSTIN: 23dIoVt929916Z1\nInvoice# 79430\nDate: 2024-07-10\nSL. Item Description Price Qty. Total\n1 Exclusive coherent conglomeration $768.1 3 $2304.3\nSubtotal $2304.3\nTax $400.57\nTotal $2704.87\nSupplier GSTIN: 33kWZaf032901Z6\nPayment: Miller-Walters IFSC: 6526136047"
+    },
+    {
+        "invoice_number": "36428",
+        "invoice_date": "2023-09-08",
+        "invoice_amount": "3492.28",
+        "buyer_gstin": "11SWotg554710Z6",
+        "supplier_gstin": "05oNRsg899398Z7",
+        "text": "Company Edwards, Jones and Wilkerson INVOICE\nInvoice to: Kevin Greene\n569 Christopher Viaduct\nNorth Jasminefurt, VA 85391 GSTIN: 11SWotg554710Z6\nInvoice# 36428\nDate: 2023-09-08\nSL. Item Description Price Qty. Total\n1 Quality-focused multimedia pricing structure $428.34 1 $428.34\n2 Organized optimal adapter $863.08 3 $2589.24\nSubtotal $3017.5800000000004\nTax $474.7\nTotal $3492.28\nSupplier Details: Lewis-Clarke GSTIN: 05oNRsg899398Z7\nPayment Terms: Net 45 days\nBank Info: Padilla, Rowe and Waters A/C 4500043042"
+    },
+    {
+        "invoice_number": "50318",
+        "invoice_date": "July 04, 2021",
+        "invoice_amount": "2688.98",
+        "buyer_gstin": "37qQstJ916183Z1",
+        "supplier_gstin": "23ZwuHz679633Z7",
+        "text": "Supplier: Barnes, Vincent and Thomas INVOICE\nInvoice# 50318\nDate: July 04, 2021\nBill to: Anderson-Smith 89072 Thomas Springs Suite 263\nCookbury, IN 69036 GSTIN: 37qQstJ916183Z1\nSL. Item Description Price Qty. Total\n1 Digitized composite monitoring $475.36 2 $950.72\n2 Reduced modular software $698.44 2 $1396.88\nTotal $2688.98\nSupplier GSTIN: 23ZwuHz679633Z7\nPayment: Morrison-Davies A/C 2456735410"
+    },
+    {
+        "invoice_number": "64292",
+        "invoice_date": "27.10.2021",
+        "invoice_amount": "981.62",
+        "buyer_gstin": "32Ijgju747646Z5",
+        "supplier_gstin": "07SJDdZ929673Z7",
+        "text": "Supplier: Rogers, Smith and Myers INVOICE\nInvoice# 64292\nDate: 27.10.2021\nBill to: Marsh, David and Hodge 99613 Elizabeth Tunnel\nEast Jamesmouth, CA 74614 GSTIN: 32Ijgju747646Z5\nSL. Item Description Price Qty. Total\n1 Right-sized mission-critical synergy $854.89 1 $854.89\nTotal $981.62\nSupplier GSTIN: 07SJDdZ929673Z7\nPayment: Rodriguez PLC A/C 4879355351"
+    },
+    {
+        "invoice_number": "40150",
+        "invoice_date": "06/27/2022",
+        "invoice_amount": "2732.21",
+        "buyer_gstin": "30kydTE675589Z2",
+        "supplier_gstin": "17fRLOZ013421Z7",
+        "text": "Solomon-Johnson Invoice\nInvoice# 40150\nInvoice Date: 06/27/2022\nTo: Ross-Mccoy, GSTIN: 30kydTE675589Z2\nDetails:\n1 Cross-group content-based workforce $514.57 5 $2572.85\nSubtotal: $2572.8500000000004\nTotal: $2732.21\nSupplier GSTIN: 17fRLOZ013421Z7\n"
+    },
+    {
+        "invoice_number": "92614",
+        "invoice_date": "16 / 09 / 2020",
+        "invoice_amount": "2557.44",
+        "buyer_gstin": "03Dlxts982590Z1",
+        "supplier_gstin": "18twTve137887Z1",
+        "text": "Brand Torres LLC INVOICE\nInvoice to: Romero-Martinez, 181 Michelle Summit Suite 661\nPort Holly, MP 64204 GSTIN: 03Dlxts982590Z1\nInvoice# 92614\nDate: 16 / 09 / 2020\nSL. Item Description Price Qty. Total\n1 Monitored multimedia Graphic Interface $595.53 4 $2382.12\nSubtotal $2382.12\nTax $175.32\nTotal $2557.44\nSupplier GSTIN: 18twTve137887Z1\nPayment: Obrien-Edwards IFSC: 3576013995"
+    },
+    {
+        "invoice_number": "63312",
+        "invoice_date": "08/25/2022",
+        "invoice_amount": "3167.8",
+        "buyer_gstin": "29WKYYn970340Z6",
+        "supplier_gstin": "21pHKCW920375Z2",
+        "text": "Company Ward-Taylor INVOICE\nInvoice to: Michele Davis\n2318 Erickson Locks\nWest Eileenview, CT 07983 GSTIN: 29WKYYn970340Z6\nInvoice# 63312\nDate: 08/25/2022\nSL. Item Description Price Qty. Total\n1 Distributed attitude-oriented analyzer $187.63 2 $375.26\n2 Progressive optimizing parallelism $649.92 4 $2599.68\nSubtotal $2974.9399999999996\nTax $192.86\nTotal $3167.8\nSupplier Details: Gomez-Carrillo GSTIN: 21pHKCW920375Z2\nPayment Terms: Net 30 days\nBank Info: Fletcher Group A/C 7267692549"
+    },
+    {
+        "invoice_number": "46344",
+        "invoice_date": "2019-11-30",
+        "invoice_amount": "5668.96",
+        "buyer_gstin": "32yDZrl932377Z6",
+        "supplier_gstin": "09IFvKa577892Z4",
+        "text": "INVOICE\nInvoice# 46344\nInvoice to: Bennett-Johnson, 339 Lucas Junctions Apt. 873\nNew Daniel, ND 05349 GSTIN: 32yDZrl932377Z6\nDate: 2019-11-30\nSL. Item Description Price Qty. Total\n1 Synergized optimal framework $332.66 3 $997.98\n2 Implemented real-time matrices $730.47 5 $3652.35\n3 Open-source value-added intranet $892.52 1 $892.52\nSubtotal $5542.85\nTax $2.28%\nTotal $5668.96\nBuyer GSTIN: 32yDZrl932377Z6\nSupplier GSTIN: 09IFvKa577892Z4"
+    },
+    {
+        "invoice_number": "78719",
+        "invoice_date": "2023-02-11",
+        "invoice_amount": "6504.39",
+        "buyer_gstin": "29ARKTF728724Z5",
+        "supplier_gstin": "21IeQzs889730Z1",
+        "text": "Tech Innovations INVOICE\nInvoice# 78719\nDate: 2023-02-11\nTo: Oneill, Obrien and Harmon GSTIN: 29ARKTF728724Z5\nSL. Item Description Price Qty. Total\n1 Inverse full-range methodology $707.51 2 $1415.02\n2 Right-sized intermediate interface $757.56 2 $1515.12\n3 Pre-emptive didactic encoding $905.68 3 $2717.04\nSubtotal $5647.18\nTotal $6504.39\nSupplier Details: Tran PLC GSTIN: 21IeQzs889730Z1\nPayment Terms: Net 30 days"
+    },
+    {
+        "invoice_number": "65489",
+        "invoice_date": "18 / 12 / 2019",
+        "invoice_amount": "4258.95",
+        "buyer_gstin": "25ELWpV724671Z2",
+        "supplier_gstin": "18xnuAh682273Z8",
+        "text": "Supplier: Allen Inc INVOICE\nInvoice# 65489\nDate: 18 / 12 / 2019\nBill to: Perry LLC 871 Allison Center\nBrandtview, MD 34234 GSTIN: 25ELWpV724671Z2\nSL. Item Description Price Qty. Total\n1 Grass-roots upward-trending productivity $104.57 3 $313.71\n2 Cloned impactful open system $274.32 3 $822.96\n3 Re-engineered multi-tasking Local Area Network $908.52 3 $2725.56\nTotal $4258.95\nSupplier GSTIN: 18xnuAh682273Z8\nPayment: Brown, Nolan and Hayden A/C 6715477779"
+    },
+    {
+        "invoice_number": "60528",
+        "invoice_date": "2020-12-05",
+        "invoice_amount": "1820.9",
+        "buyer_gstin": "28UzEIg154781Z3",
+        "supplier_gstin": "14rtpkj092835Z9",
+        "text": "INVOICE\nInvoice# 60528\nInvoice to: Miller-Riddle, 651 Edward Coves Apt. 927\nJohnmouth, NY 64168 GSTIN: 28UzEIg154781Z3\nDate: 2020-12-05\nSL. Item Description Price Qty. Total\n1 Intuitive bandwidth-monitored product $401.25 4 $1605.0\nSubtotal $1605.0\nTax $13.45%\nTotal $1820.9\nBuyer GSTIN: 28UzEIg154781Z3\nSupplier GSTIN: 14rtpkj092835Z9"
+    },
+    {
+        "invoice_number": "49266",
+        "invoice_date": "19.04.2021",
+        "invoice_amount": "5340.37",
+        "buyer_gstin": "07bFIPU584922Z2",
+        "supplier_gstin": "14SENCz606080Z6",
+        "text": "INVOICE\nInvoice# 49266\nInvoice to: Steele, Simon and Washington, 38661 John Village\nBrowningmouth, KY 73313 GSTIN: 07bFIPU584922Z2\nDate: 19.04.2021\nSL. Item Description Price Qty. Total\n1 Managed 3rdgeneration portal $333.7 4 $1334.8\n2 Operative value-added policy $756.21 5 $3781.05\nSubtotal $5115.85\nTax $4.39%\nTotal $5340.37\nBuyer GSTIN: 07bFIPU584922Z2\nSupplier GSTIN: 14SENCz606080Z6"
+    },
+    {
+        "invoice_number": "23043",
+        "invoice_date": "August 12, 2024",
+        "invoice_amount": "2195.16",
+        "buyer_gstin": "13ITTLd759565Z5",
+        "supplier_gstin": "24oBoCz031093Z6",
+        "text": "Ward PLC Billing Invoice\nInvoice# 23043\nDate of Invoice: August 12, 2024\nCustomer: Carrillo, Gomez and Mack GSTIN: 13ITTLd759565Z5\nDetails of Services:\n1 Mandatory empowering time-frame $750.94 2 $1501.88\n2 User-friendly actuating emulation $120.98 4 $483.92\nSubtotal: $1985.8000000000002\nTax: $209.36\nFinal Amount: $2195.16\nSupplier GSTIN: 24oBoCz031093Z6"
+    },
+    {
+        "invoice_number": "65883",
+        "invoice_date": "2022-03-07",
+        "invoice_amount": "5869.84",
+        "buyer_gstin": "34OtNVs939155Z9",
+        "supplier_gstin": "11imURI039121Z3",
+        "text": "Sloan-Cook Invoice\nInvoice# 65883\nInvoice Date: 2022-03-07\nTo: Roy, Blake and Smith, GSTIN: 34OtNVs939155Z9\nDetails:\n1 Managed motivating Graphic Interface $350.21 2 $700.42\n2 Fundamental bottom-line definition $854.67 3 $2564.01\n3 Networked regional structure $438.03 5 $2190.15\nSubtotal: $5454.579999999999\nTotal: $5869.84\nSupplier GSTIN: 11imURI039121Z3\n"
+    },
+    {
+        "invoice_number": "99686",
+        "invoice_date": "May 08, 2021",
+        "invoice_amount": "3158.59",
+        "buyer_gstin": "34hiCTW995558Z1",
+        "supplier_gstin": "17VXmrD626735Z1",
+        "text": "Invoice Summary\nNumber: 99686\nDate: May 08, 2021\nBilled To: Sanchez PLC GSTIN: 34hiCTW995558Z1\nItems:\n1 Exclusive static support $743.79 1 $743.79\n2 Reactive bottom-line knowledge user $454.34 5 $2271.7\nSubtotal: $3015.49\nTotal Amount: $3158.59\nSupplier GSTIN: 17VXmrD626735Z1\n"
+    },
+    {
+        "invoice_number": "13939",
+        "invoice_date": "2020-06-09",
+        "invoice_amount": "5459.75",
+        "buyer_gstin": "30gTlWP134390Z7",
+        "supplier_gstin": "12VxHOt726637Z3",
+        "text": "Supplier: Thomas Ltd INVOICE\nInvoice# 13939\nDate: 2020-06-09\nBill to: Bell, Aguirre and Hooper 98470 Spencer Ports\nPort Ryanland, DE 94932 GSTIN: 30gTlWP134390Z7\nSL. Item Description Price Qty. Total\n1 Function-based multimedia extranet $470.77 5 $2353.85\n2 Configurable asymmetric time-frame $489.52 5 $2447.6\nTotal $5459.75\nSupplier GSTIN: 12VxHOt726637Z3\nPayment: Howell, Higgins and Wallace A/C 1415209766"
+    },
+    {
+        "invoice_number": "36044",
+        "invoice_date": "2021-10-30",
+        "invoice_amount": "2348.17",
+        "buyer_gstin": "02EbGvu868171Z1",
+        "supplier_gstin": "23EhEoY749580Z5",
+        "text": "INVOICE\nInvoice# 36044\nInvoice to: Wang-Strickland, 29985 Patricia Burg Apt. 824\nWest Angelaland, MP 13556 GSTIN: 02EbGvu868171Z1\nDate: 2021-10-30\nSL. Item Description Price Qty. Total\n1 Managed transitional moratorium $765.76 3 $2297.28\nSubtotal $2297.2799999999997\nTax $2.22%\nTotal $2348.17\nBuyer GSTIN: 02EbGvu868171Z1\nSupplier GSTIN: 23EhEoY749580Z5"
+    },
+    {
+        "invoice_number": "53595",
+        "invoice_date": "March 06, 2024",
+        "invoice_amount": "3927.76",
+        "buyer_gstin": "27FQyVv233193Z3",
+        "supplier_gstin": "30OmaqL036615Z8",
+        "text": "Tech Innovations INVOICE\nInvoice# 53595\nDate: March 06, 2024\nTo: Wells-Wood GSTIN: 27FQyVv233193Z3\nSL. Item Description Price Qty. Total\n1 Face-to-face motivating focus group $513.67 3 $1541.01\n2 Balanced mobile artificial intelligence $691.9 3 $2075.7\nSubtotal $3616.7099999999996\nTotal $3927.76\nSupplier Details: Bailey Group GSTIN: 30OmaqL036615Z8\nPayment Terms: Net 15 days"
+    },
+    {
+        "invoice_number": "27466",
+        "invoice_date": "12-08-2021",
+        "invoice_amount": "7881.59",
+        "buyer_gstin": "32qIJLC064136Z8",
+        "supplier_gstin": "18igwsO419758Z4",
+        "text": "INVOICE 27466\nDate: 12-08-2021\nBilled To: Rosales LLC, GSTIN: 32qIJLC064136Z8\nItems:\n1 Reverse-engineered multi-state productivity $490.11 4 $1960.44\n2 Open-source static flexibility $450.07 5 $2250.35\n3 Programmable motivating strategy $534.99 5 $2674.95\nSubtotal: $6885.74\nTotal Amount: $7881.59\nSupplier GSTIN: 18igwsO419758Z4"
+    },
+    {
+        "invoice_number": "21242",
+        "invoice_date": "07.01.2020",
+        "invoice_amount": "2874.91",
+        "buyer_gstin": "29oFGnw412033Z2",
+        "supplier_gstin": "04YsRus706862Z2",
+        "text": "Invoice Summary\nNumber: 21242\nDate: 07.01.2020\nBilled To: Leach-Nelson GSTIN: 29oFGnw412033Z2\nItems:\n1 Fully-configurable homogeneous product $639.9 4 $2559.6\nSubtotal: $2559.6\nTotal Amount: $2874.91\nSupplier GSTIN: 04YsRus706862Z2\n"
+    },
+    {
+        "invoice_number": "68248",
+        "invoice_date": "August 14, 2023",
+        "invoice_amount": "3575.53",
+        "buyer_gstin": "08yVHFX564851Z8",
+        "supplier_gstin": "32Bhsfr330655Z1",
+        "text": "Company Johnson, Hammond and Hunter INVOICE\nInvoice to: Mr. Douglas Patton\n36620 Sarah Station\nLauraville, MA 10081 GSTIN: 08yVHFX564851Z8\nInvoice# 68248\nDate: August 14, 2023\nSL. Item Description Price Qty. Total\n1 Right-sized attitude-oriented Graphical User Interface $884.07 4 $3536.28\nSubtotal $3536.28\nTax $39.25\nTotal $3575.53\nSupplier Details: Hall Inc GSTIN: 32Bhsfr330655Z1\nPayment Terms: Net 45 days\nBank Info: Lane-Gomez A/C 7386707480"
+    },
+    {
+        "invoice_number": "86314",
+        "invoice_date": "2023-08-18",
+        "invoice_amount": "4695.73",
+        "buyer_gstin": "21CtrQZ388669Z6",
+        "supplier_gstin": "09QorTY343729Z5",
+        "text": "Tech Innovations INVOICE\nInvoice# 86314\nDate: 2023-08-18\nTo: Young-Powell GSTIN: 21CtrQZ388669Z6\nSL. Item Description Price Qty. Total\n1 Multi-layered client-server approach $596.85 1 $596.85\n2 Future-proofed zero-defect database $782.28 1 $782.28\n3 Reactive scalable Graphic Interface $676.36 4 $2705.44\nSubtotal $4084.57\nTotal $4695.73\nSupplier Details: Gillespie, Rowland and Stanley GSTIN: 09QorTY343729Z5\nPayment Terms: Net 30 days"
+    },
+    {
+        "invoice_number": "50233",
+        "invoice_date": "2023-02-23",
+        "invoice_amount": "4824.99",
+        "buyer_gstin": "27fXvVC004978Z6",
+        "supplier_gstin": "32VcJNr962384Z3",
+        "text": "Supplier: Garcia, Baker and Hancock INVOICE\nInvoice# 50233\nDate: 2023-02-23\nBill to: Love LLC 745 Jason Mountain\nThompsonburgh, NE 14701 GSTIN: 27fXvVC004978Z6\nSL. Item Description Price Qty. Total\n1 Inverse optimal time-frame $306.22 3 $918.66\n2 Innovative maximized protocol $996.18 3 $2988.54\n3 Re-contextualized reciprocal data-warehouse $617.89 1 $617.89\nTotal $4824.99\nSupplier GSTIN: 32VcJNr962384Z3\nPayment: Miller, Robertson and Moore A/C 5725326048"
+    },
+    {
+        "invoice_number": "37187",
+        "invoice_date": "2019-12-25",
+        "invoice_amount": "192.48",
+        "buyer_gstin": "37jERPU913616Z6",
+        "supplier_gstin": "09cnUDn282281Z7",
+        "text": "Brand Martinez PLC INVOICE\nInvoice to: Parker-Wright, 35502 Hunter Glen\nEast Carmen, HI 65609 GSTIN: 37jERPU913616Z6\nInvoice# 37187\nDate: 2019-12-25\nSL. Item Description Price Qty. Total\n1 Advanced static architecture $189.37 1 $189.37\nSubtotal $189.37\nTax $3.11\nTotal $192.48\nSupplier GSTIN: 09cnUDn282281Z7\nPayment: Bryan-Walker IFSC: 1368708280"
+    },
+    {
+        "invoice_number": "19357",
+        "invoice_date": "05-07-2022",
+        "invoice_amount": "4592.35",
+        "buyer_gstin": "28ruJOR243292Z7",
+        "supplier_gstin": "24VYLUh907750Z9",
+        "text": "INVOICE\nInvoice# 19357\nInvoice to: Alexander LLC, PSC 3775, Box 2208\nAPO AP 45828 GSTIN: 28ruJOR243292Z7\nDate: 05-07-2022\nSL. Item Description Price Qty. Total\n1 Versatile analyzing data-warehouse $788.06 3 $2364.18\n2 Assimilated holistic customer loyalty $236.25 5 $1181.25\n3 Sharable transitional groupware $267.19 2 $534.38\nSubtotal $4079.81\nTax $12.56%\nTotal $4592.35\nBuyer GSTIN: 28ruJOR243292Z7\nSupplier GSTIN: 24VYLUh907750Z9"
+    },
+    {
+        "invoice_number": "90921",
+        "invoice_date": "29 / 03 / 2022",
+        "invoice_amount": "3675.47",
+        "buyer_gstin": "15LIGDx625573Z7",
+        "supplier_gstin": "17sVtDe726395Z2",
+        "text": "INVOICE\nInvoice# 90921\nInvoice to: Cruz, Hall and Stanton, 72404 Justin Circle\nJacksonburgh, TN 27027 GSTIN: 15LIGDx625573Z7\nDate: 29 / 03 / 2022\nSL. Item Description Price Qty. Total\n1 Multi-lateral intermediate definition $648.19 5 $3240.95\nSubtotal $3240.9500000000003\nTax $13.41%\nTotal $3675.47\nBuyer GSTIN: 15LIGDx625573Z7\nSupplier GSTIN: 17sVtDe726395Z2"
+    },
+    {
+        "invoice_number": "96841",
+        "invoice_date": "2021-04-29",
+        "invoice_amount": "174.33",
+        "buyer_gstin": "06jSmeI016794Z1",
+        "supplier_gstin": "34yttEN482697Z1",
+        "text": "Invoice Summary\nNumber: 96841\nDate: 2021-04-29\nBilled To: Williams, Gomez and Parks GSTIN: 06jSmeI016794Z1\nItems:\n1 Diverse uniform intranet $153.94 1 $153.94\nSubtotal: $153.94\nTotal Amount: $174.33\nSupplier GSTIN: 34yttEN482697Z1\n"
+    },
+    {
+        "invoice_number": "80347",
+        "invoice_date": "2022-07-09",
+        "invoice_amount": "1978.51",
+        "buyer_gstin": "31QdGRu416980Z6",
+        "supplier_gstin": "10UIaKE888986Z6",
+        "text": "Brand Rodriguez Inc INVOICE\nInvoice to: Hall Group, 884 Heidi Junction Apt. 960\nNew Charlesville, MA 31432 GSTIN: 31QdGRu416980Z6\nInvoice# 80347\nDate: 2022-07-09\nSL. Item Description Price Qty. Total\n1 Face-to-face grid-enabled knowledgebase $136.74 4 $546.96\n2 Profit-focused intermediate matrix $389.75 3 $1169.25\nSubtotal $1716.21\nTax $262.3\nTotal $1978.51\nSupplier GSTIN: 10UIaKE888986Z6\nPayment: Reynolds LLC IFSC: 985111554"
+    },
+    {
+        "invoice_number": "53539",
+        "invoice_date": "2022-11-06",
+        "invoice_amount": "5431.1",
+        "buyer_gstin": "30zEEKn082852Z3",
+        "supplier_gstin": "19OkBGm596142Z6",
+        "text": "Company Jimenez-Clark INVOICE\nInvoice to: Amy Santana\n966 Mccoy Roads\nAngelachester, MA 16900 GSTIN: 30zEEKn082852Z3\nInvoice# 53539\nDate: 2022-11-06\nSL. Item Description Price Qty. Total\n1 Total coherent definition $948.18 3 $2844.54\n2 Object-based zero tolerance functionalities $746.12 1 $746.12\n3 Synergized multi-tasking encoding $499.27 3 $1497.81\nSubtotal $5088.47\nTax $342.63\nTotal $5431.1\nSupplier Details: Miller, English and Hernandez GSTIN: 19OkBGm596142Z6\nPayment Terms: Net 30 days\nBank Info: Smith, Smith and Steele A/C 7730147139"
+    },
+    {
+        "invoice_number": "51217",
+        "invoice_date": "19.11.2022",
+        "invoice_amount": "2053.51",
+        "buyer_gstin": "23mJaeq510423Z9",
+        "supplier_gstin": "14AdxNB903824Z8",
+        "text": "Patterson and Sons Billing Invoice\nInvoice# 51217\nDate of Invoice: 19.11.2022\nCustomer: Rivera-Sosa GSTIN: 23mJaeq510423Z9\nDetails of Services:\n1 Ameliorated national instruction set $920.45 2 $1840.9\nSubtotal: $1840.9\nTax: $212.61\nFinal Amount: $2053.51\nSupplier GSTIN: 14AdxNB903824Z8"
+    },
+    {
+        "invoice_number": "98624",
+        "invoice_date": "2020-07-19",
+        "invoice_amount": "8595.19",
+        "buyer_gstin": "05DjdFB707790Z7",
+        "supplier_gstin": "24WZbOv682997Z1",
+        "text": "Brand Nguyen, Smith and Moore INVOICE\nInvoice to: Allison-Keller, 91257 Joshua Square Apt. 621\nPort Brandon, WY 82522 GSTIN: 05DjdFB707790Z7\nInvoice# 98624\nDate: 2020-07-19\nSL. Item Description Price Qty. Total\n1 Synchronized multimedia workforce $506.41 4 $2025.64\n2 Customer-focused scalable circuit $717.97 4 $2871.88\n3 Persevering bottom-line project $536.54 5 $2682.7\nSubtotal $7580.22\nTax $1014.97\nTotal $8595.19\nSupplier GSTIN: 24WZbOv682997Z1\nPayment: Kelly-Gibbs IFSC: 2918642312"
+    },
+    {
+        "invoice_number": "25102",
+        "invoice_date": "15 / 12 / 2019",
+        "invoice_amount": "587.2",
+        "buyer_gstin": "04bnHdu545947Z4",
+        "supplier_gstin": "18LMgyf422388Z6",
+        "text": "Nielsen-Brown Billing Invoice\nInvoice# 25102\nDate of Invoice: 15 / 12 / 2019\nCustomer: Franco, Stevens and Peters GSTIN: 04bnHdu545947Z4\nDetails of Services:\n1 User-centric bottom-line encryption $512.36 1 $512.36\nSubtotal: $512.36\nTax: $74.84\nFinal Amount: $587.2\nSupplier GSTIN: 18LMgyf422388Z6"
+    },
+    {
+        "invoice_number": "59180",
+        "invoice_date": "09 / 11 / 2019",
+        "invoice_amount": "3795.33",
+        "buyer_gstin": "23mNJsO725007Z7",
+        "supplier_gstin": "20XoBWU825863Z5",
+        "text": "Company Riley-Brown INVOICE\nInvoice to: Jennifer Olson\n351 Morgan Pass Apt. 528\nNorth Julieborough, PR 76449 GSTIN: 23mNJsO725007Z7\nInvoice# 59180\nDate: 09 / 11 / 2019\nSL. Item Description Price Qty. Total\n1 Profound fresh-thinking hierarchy $350.89 2 $701.78\n2 Centralized radical model $934.18 3 $2802.54\nSubtotal $3504.3199999999997\nTax $291.01\nTotal $3795.33\nSupplier Details: Davis, Hall and Hernandez GSTIN: 20XoBWU825863Z5\nPayment Terms: Net 60 days\nBank Info: Hendrix Group A/C 2863260597"
+    },
+    {
+        "invoice_number": "62250",
+        "invoice_date": "16.08.2024",
+        "invoice_amount": "2964.76",
+        "buyer_gstin": "10hoghf301787Z2",
+        "supplier_gstin": "31gHvca756369Z1",
+        "text": "Invoice from Miller, Casey and Stanley\nInvoice# 62250\nInvoice Date: 16.08.2024\nFor: Fletcher and Sons, GSTIN: 10hoghf301787Z2\nSL. Item Description Price Qty. Total\n1 Balanced coherent parallelism $826.84 1 $826.84\n2 Customer-focused motivating capability $351.51 5 $1757.55\nSubtotal: $2584.39\nTotal Amount: $2964.76\nSupplier GSTIN: 31gHvca756369Z1"
+    },
+    {
+        "invoice_number": "89109",
+        "invoice_date": "28.11.2019",
+        "invoice_amount": "2023.95",
+        "buyer_gstin": "05YHsdz876776Z3",
+        "supplier_gstin": "05rUIpK993145Z7",
+        "text": "Invoice Summary\nNumber: 89109\nDate: 28.11.2019\nBilled To: Lewis-Tucker GSTIN: 05YHsdz876776Z3\nItems:\n1 Integrated national middleware $495.09 4 $1980.36\nSubtotal: $1980.36\nTotal Amount: $2023.95\nSupplier GSTIN: 05rUIpK993145Z7\n"
+    },
+    {
+        "invoice_number": "70965",
+        "invoice_date": "11/24/2022",
+        "invoice_amount": "409.85",
+        "buyer_gstin": "01aJPst107320Z9",
+        "supplier_gstin": "13cChIb857641Z4",
+        "text": "INVOICE 70965\nDate: 11/24/2022\nBilled To: Erickson, May and Brooks, GSTIN: 01aJPst107320Z9\nItems:\n1 Multi-lateral 6thgeneration implementation $129.94 3 $389.82\nSubtotal: $389.82\nTotal Amount: $409.85\nSupplier GSTIN: 13cChIb857641Z4"
+    },
+    {
+        "invoice_number": "66830",
+        "invoice_date": "06.01.2020",
+        "invoice_amount": "753.03",
+        "buyer_gstin": "03UTMbm377416Z9",
+        "supplier_gstin": "35PcWlP263579Z1",
+        "text": "INVOICE 66830\nDate: 06.01.2020\nBilled To: Hamilton Ltd, GSTIN: 03UTMbm377416Z9\nItems:\n1 Sharable tertiary synergy $683.96 1 $683.96\nSubtotal: $683.96\nTotal Amount: $753.03\nSupplier GSTIN: 35PcWlP263579Z1"
+    },
+    {
+        "invoice_number": "66949",
+        "invoice_date": "02/07/2022",
+        "invoice_amount": "7385.08",
+        "buyer_gstin": "06EznVe408880Z9",
+        "supplier_gstin": "24ibsLJ774927Z8",
+        "text": "Lawson and Sons Billing Invoice\nInvoice# 66949\nDate of Invoice: 02/07/2022\nCustomer: Martin Inc GSTIN: 06EznVe408880Z9\nDetails of Services:\n1 Enhanced intermediate secured line $656.63 1 $656.63\n2 Grass-roots national policy $635.67 4 $2542.68\n3 De-engineered tangible application $716.09 5 $3580.45\nSubtotal: $6779.76\nTax: $605.32\nFinal Amount: $7385.08\nSupplier GSTIN: 24ibsLJ774927Z8"
+    },
+    {
+        "invoice_number": "98419",
+        "invoice_date": "07-05-2023",
+        "invoice_amount": "7816.21",
+        "buyer_gstin": "04TFBgQ997413Z3",
+        "supplier_gstin": "01KVMMz043966Z7",
+        "text": "INVOICE\nInvoice# 98419\nInvoice to: Burke-Davis, USNS Khan\nFPO AA 31126 GSTIN: 04TFBgQ997413Z3\nDate: 07-05-2023\nSL. Item Description Price Qty. Total\n1 Team-oriented neutral interface $832.81 4 $3331.24\n2 Reverse-engineered multi-tasking emulation $303.83 5 $1519.15\n3 User-centric bi-directional artificial intelligence $503.18 5 $2515.9\nSubtotal $7366.29\nTax $6.11%\nTotal $7816.21\nBuyer GSTIN: 04TFBgQ997413Z3\nSupplier GSTIN: 01KVMMz043966Z7"
+    },
+    {
+        "invoice_number": "63817",
+        "invoice_date": "26 / 11 / 2023",
+        "invoice_amount": "4899.11",
+        "buyer_gstin": "30bmoxZ839368Z6",
+        "supplier_gstin": "10vWRGf918819Z7",
+        "text": "Company Sanchez-Dunn INVOICE\nInvoice to: Joshua Thompson\n63824 Webb Locks Suite 283\nWest Joanne, OR 45352 GSTIN: 30bmoxZ839368Z6\nInvoice# 63817\nDate: 26 / 11 / 2023\nSL. Item Description Price Qty. Total\n1 Optimized impactful customer loyalty $683.22 1 $683.22\n2 Multi-tiered multi-tasking task-force $391.58 1 $391.58\n3 Focused didactic interface $841.78 4 $3367.12\nSubtotal $4441.92\nTax $457.19\nTotal $4899.11\nSupplier Details: Holland Group GSTIN: 10vWRGf918819Z7\nPayment Terms: Net 30 days\nBank Info: Dillon-Bryant A/C 7692829382"
+    },
+    {
+        "invoice_number": "69955",
+        "invoice_date": "10.12.2019",
+        "invoice_amount": "229.57",
+        "buyer_gstin": "19JOith574426Z5",
+        "supplier_gstin": "10dOHOP340114Z7",
+        "text": "Supplier: Nash-Wade INVOICE\nInvoice# 69955\nDate: 10.12.2019\nBill to: Preston, Montes and Camacho 0197 Cooper Meadow\nWest Scott, CA 40436 GSTIN: 19JOith574426Z5\nSL. Item Description Price Qty. Total\n1 Expanded asymmetric standardization $196.52 1 $196.52\nTotal $229.57\nSupplier GSTIN: 10dOHOP340114Z7\nPayment: Brown-Gray A/C 9417617122"
+    },
+    {
+        "invoice_number": "78598",
+        "invoice_date": "June 14, 2020",
+        "invoice_amount": "1843.58",
+        "buyer_gstin": "14SBwJC043181Z2",
+        "supplier_gstin": "35dDNQa027671Z4",
+        "text": "Mckinney Inc Invoice\nInvoice# 78598\nInvoice Date: June 14, 2020\nTo: Sloan Ltd, GSTIN: 14SBwJC043181Z2\nDetails:\n1 Down-sized zero tolerance methodology $236.57 4 $946.28\n2 Universal hybrid structure $869.09 1 $869.09\nSubtotal: $1815.37\nTotal: $1843.58\nSupplier GSTIN: 35dDNQa027671Z4\n"
+    },
+    {
+        "invoice_number": "33366",
+        "invoice_date": "09-03-2021",
+        "invoice_amount": "2339.35",
+        "buyer_gstin": "22Hifoj198680Z8",
+        "supplier_gstin": "10oWjoG174992Z4",
+        "text": "Invoice from Stout and Sons\nInvoice# 33366\nInvoice Date: 09-03-2021\nFor: Fowler, Rodriguez and Ford, GSTIN: 22Hifoj198680Z8\nSL. Item Description Price Qty. Total\n1 Synchronized client-driven synergy $533.06 4 $2132.24\nSubtotal: $2132.24\nTotal Amount: $2339.35\nSupplier GSTIN: 10oWjoG174992Z4"
+    },
+    {
+        "invoice_number": "46793",
+        "invoice_date": "06.09.2021",
+        "invoice_amount": "3581.2",
+        "buyer_gstin": "24zPqml936068Z8",
+        "supplier_gstin": "14uFgKk608242Z6",
+        "text": "Benton-Greene Invoice\nInvoice# 46793\nInvoice Date: 06.09.2021\nTo: Martin, Graves and Gomez, GSTIN: 24zPqml936068Z8\nDetails:\n1 Cross-group holistic instruction set $290.97 1 $290.97\n2 Triple-buffered empowering analyzer $730.71 4 $2922.84\nSubtotal: $3213.8100000000004\nTotal: $3581.2\nSupplier GSTIN: 14uFgKk608242Z6\n"
+    },
+    {
+        "invoice_number": "74568",
+        "invoice_date": "2022-09-22",
+        "invoice_amount": "869.03",
+        "buyer_gstin": "11iAGYC499258Z9",
+        "supplier_gstin": "31GLipM052114Z2",
+        "text": "Brand Smith, White and Davis INVOICE\nInvoice to: Wilkins-Ramirez, 37552 Tate Lodge\nEast Bryanfurt, MN 95455 GSTIN: 11iAGYC499258Z9\nInvoice# 74568\nDate: 2022-09-22\nSL. Item Description Price Qty. Total\n1 Assimilated upward-trending conglomeration $403.2 2 $806.4\nSubtotal $806.4\nTax $62.63\nTotal $869.03\nSupplier GSTIN: 31GLipM052114Z2\nPayment: Brown, Burke and Jones IFSC: 4837417753"
+    },
+    {
+        "invoice_number": "12356",
+        "invoice_date": "07/06/2024",
+        "invoice_amount": "5520.88",
+        "buyer_gstin": "06eMAJe621148Z1",
+        "supplier_gstin": "13NPFpt344335Z1",
+        "text": "Tech Innovations INVOICE\nInvoice# 12356\nDate: 07/06/2024\nTo: Frank and Sons GSTIN: 06eMAJe621148Z1\nSL. Item Description Price Qty. Total\n1 Self-enabling 3rdgeneration focus group $446.97 2 $893.94\n2 Automated intangible Local Area Network $623.97 5 $3119.85\n3 Reactive non-volatile projection $343.77 3 $1031.31\nSubtotal $5045.1\nTotal $5520.88\nSupplier Details: Hansen LLC GSTIN: 13NPFpt344335Z1\nPayment Terms: Net 30 days"
+    },
+    {
+        "invoice_number": "58076",
+        "invoice_date": "22-07-2020",
+        "invoice_amount": "7958.29",
+        "buyer_gstin": "23GNzFf040392Z6",
+        "supplier_gstin": "33BWUxn757955Z9",
+        "text": "Carson, Williams and Reynolds Invoice\nInvoice# 58076\nInvoice Date: 22-07-2020\nTo: Booth and Sons, GSTIN: 23GNzFf040392Z6\nDetails:\n1 Multi-layered bottom-line portal $908.2 1 $908.2\n2 Versatile solution-oriented standardization $505.11 4 $2020.44\n3 Re-contextualized tangible support $809.22 5 $4046.1\nSubtotal: $6974.740000000001\nTotal: $7958.29\nSupplier GSTIN: 33BWUxn757955Z9\n"
+    },
+    {
+        "invoice_number": "35600",
+        "invoice_date": "01-07-2020",
+        "invoice_amount": "3657.3",
+        "buyer_gstin": "07gxxsu232603Z1",
+        "supplier_gstin": "04auHHn222623Z5",
+        "text": "Invoice Summary\nNumber: 35600\nDate: 01-07-2020\nBilled To: Welch, Myers and Williams GSTIN: 07gxxsu232603Z1\nItems:\n1 Distributed actuating adapter $683.2 2 $1366.4\n2 Reactive impactful collaboration $579.77 3 $1739.31\n3 Organic modular Graphical User Interface $165.88 3 $497.64\nSubtotal: $3603.35\nTotal Amount: $3657.3\nSupplier GSTIN: 04auHHn222623Z5\n"
+    },
+    {
+        "invoice_number": "37559",
+        "invoice_date": "08/03/2021",
+        "invoice_amount": "868.16",
+        "buyer_gstin": "30QkUpX715796Z5",
+        "supplier_gstin": "13fiCVz960851Z3",
+        "text": "Scott LLC Invoice\nInvoice# 37559\nInvoice Date: 08/03/2021\nTo: Taylor-White, GSTIN: 30QkUpX715796Z5\nDetails:\n1 Programmable leadingedge extranet $259.96 3 $779.88\nSubtotal: $779.8799999999999\nTotal: $868.16\nSupplier GSTIN: 13fiCVz960851Z3\n"
+    },
+    {
+        "invoice_number": "62732",
+        "invoice_date": "25-03-2023",
+        "invoice_amount": "3635.2",
+        "buyer_gstin": "18CeybL196661Z3",
+        "supplier_gstin": "27RElDH224077Z5",
+        "text": "INVOICE\nInvoice# 62732\nInvoice to: Robbins, Ross and Davis, 8229 Jimenez Island Suite 926\nEast Jeanmouth, ND 41072 GSTIN: 18CeybL196661Z3\nDate: 25-03-2023\nSL. Item Description Price Qty. Total\n1 Monitored 3rdgeneration product $957.11 3 $2871.33\n2 Re-contextualized intermediate attitude $216.2 2 $432.4\nSubtotal $3303.73\nTax $10.03%\nTotal $3635.2\nBuyer GSTIN: 18CeybL196661Z3\nSupplier GSTIN: 27RElDH224077Z5"
+    },
+    {
+        "invoice_number": "52562",
+        "invoice_date": "July 22, 2021",
+        "invoice_amount": "679.42",
+        "buyer_gstin": "04imHmS448923Z3",
+        "supplier_gstin": "15IgIJJ125812Z5",
+        "text": "Supplier: Scott and Sons INVOICE\nInvoice# 52562\nDate: July 22, 2021\nBill to: Wilson-Graham 53985 Javier Garden Apt. 332\nPort Shannon, SD 23577 GSTIN: 04imHmS448923Z3\nSL. Item Description Price Qty. Total\n1 Decentralized systematic challenge $630.81 1 $630.81\nTotal $679.42\nSupplier GSTIN: 15IgIJJ125812Z5\nPayment: Wallace, Flores and Martin A/C 8490314394"
+    },
+    {
+        "invoice_number": "82926",
+        "invoice_date": "08 / 11 / 2019",
+        "invoice_amount": "3459.4",
+        "buyer_gstin": "12FgxtX583399Z1",
+        "supplier_gstin": "07siosZ553063Z9",
+        "text": "Invoice Summary\nNumber: 82926\nDate: 08 / 11 / 2019\nBilled To: Bauer, Bishop and Hamilton GSTIN: 12FgxtX583399Z1\nItems:\n1 Operative neutral neural-net $529.15 5 $2645.75\n2 Profit-focused demand-driven artificial intelligence $156.79 3 $470.37\nSubtotal: $3116.12\nTotal Amount: $3459.4\nSupplier GSTIN: 07siosZ553063Z9\n"
+    },
+    {
+        "invoice_number": "56665",
+        "invoice_date": "27-02-2023",
+        "invoice_amount": "6066.77",
+        "buyer_gstin": "20jPINp393247Z6",
+        "supplier_gstin": "24sIBxQ411564Z2",
+        "text": "Company Potts, Miles and Giles INVOICE\nInvoice to: Dana Padilla\n100 Rios Locks\nPort Nancyton, MO 02160 GSTIN: 20jPINp393247Z6\nInvoice# 56665\nDate: 27-02-2023\nSL. Item Description Price Qty. Total\n1 Synergistic tangible website $631.75 4 $2527.0\n2 Synergized modular protocol $510.09 4 $2040.36\n3 Cloned responsive access $151.24 5 $756.2\nSubtotal $5323.5599999999995\nTax $743.21\nTotal $6066.77\nSupplier Details: Anderson, Tate and Sullivan GSTIN: 24sIBxQ411564Z2\nPayment Terms: Net 60 days\nBank Info: Johnson, Phillips and Mahoney A/C 2647008735"
+    },
+    {
+        "invoice_number": "50268",
+        "invoice_date": "2023-10-28",
+        "invoice_amount": "1947.88",
+        "buyer_gstin": "16GTTck303096Z1",
+        "supplier_gstin": "08lYTcf891309Z7",
+        "text": "Supplier: Mccarthy-Mccall INVOICE\nInvoice# 50268\nDate: 2023-10-28\nBill to: Lee Inc 391 Taylor Gateway Suite 085\nHooverside, IN 28235 GSTIN: 16GTTck303096Z1\nSL. Item Description Price Qty. Total\n1 Secured tertiary pricing structure $166.36 4 $665.44\n2 Polarized reciprocal definition $292.22 1 $292.22\n3 Innovative encompassing alliance $872.21 1 $872.21\nTotal $1947.88\nSupplier GSTIN: 08lYTcf891309Z7\nPayment: Nelson-Mendoza A/C 2303265138"
+    },
+    {
+        "invoice_number": "41964",
+        "invoice_date": "07 / 07 / 2020",
+        "invoice_amount": "297.59",
+        "buyer_gstin": "04PaPxX163768Z3",
+        "supplier_gstin": "10JZkPz561475Z9",
+        "text": "Gonzalez, Foster and Porter Invoice\nInvoice# 41964\nInvoice Date: 07 / 07 / 2020\nTo: Rogers-Sanchez, GSTIN: 04PaPxX163768Z3\nDetails:\n1 Distributed systemic emulation $268.27 1 $268.27\nSubtotal: $268.27\nTotal: $297.59\nSupplier GSTIN: 10JZkPz561475Z9\n"
+    },
+    {
+        "invoice_number": "75892",
+        "invoice_date": "2020-11-02",
+        "invoice_amount": "3003.94",
+        "buyer_gstin": "37jwoHS245475Z3",
+        "supplier_gstin": "15jfERM786411Z4",
+        "text": "Davis-Byrd Billing Invoice\nInvoice# 75892\nDate of Invoice: 2020-11-02\nCustomer: Nelson, Bishop and Johnson GSTIN: 37jwoHS245475Z3\nDetails of Services:\n1 De-engineered asymmetric frame $614.84 3 $1844.52\n2 Triple-buffered client-driven neural-net $190.37 4 $761.48\nSubtotal: $2606.0\nTax: $397.94\nFinal Amount: $3003.94\nSupplier GSTIN: 15jfERM786411Z4"
+    },
+    {
+        "invoice_number": "87106",
+        "invoice_date": "2020-04-23",
+        "invoice_amount": "8193.63",
+        "buyer_gstin": "09WERct341635Z5",
+        "supplier_gstin": "15HEOfY089453Z5",
+        "text": "Russell-Perez Invoice\nInvoice# 87106\nInvoice Date: 2020-04-23\nTo: Washington LLC, GSTIN: 09WERct341635Z5\nDetails:\n1 Multi-lateral client-driven matrix $924.6 5 $4623.0\n2 Configurable multi-tasking product $618.57 5 $3092.85\nSubtotal: $7715.85\nTotal: $8193.63\nSupplier GSTIN: 15HEOfY089453Z5\n"
+    },
+    {
+        "invoice_number": "62261",
+        "invoice_date": "July 29, 2021",
+        "invoice_amount": "9132.2",
+        "buyer_gstin": "20tnRDg379442Z1",
+        "supplier_gstin": "21DgwdX645931Z1",
+        "text": "Abbott Group Billing Invoice\nInvoice# 62261\nDate of Invoice: July 29, 2021\nCustomer: Leblanc Group GSTIN: 20tnRDg379442Z1\nDetails of Services:\n1 Total didactic architecture $933.21 3 $2799.63\n2 Public-key object-oriented open architecture $514.63 5 $2573.15\n3 Front-line disintermediate customer loyalty $901.42 4 $3605.68\nSubtotal: $8978.46\nTax: $153.74\nFinal Amount: $9132.2\nSupplier GSTIN: 21DgwdX645931Z1"
+    },
+    {
+        "invoice_number": "83853",
+        "invoice_date": "July 20, 2024",
+        "invoice_amount": "5054.11",
+        "buyer_gstin": "15QnJVo125812Z3",
+        "supplier_gstin": "20DuhZP088551Z2",
+        "text": "Company Yu LLC INVOICE\nInvoice to: Robert Mcclain\n709 Megan Camp\nLake Suzanne, UT 66625 GSTIN: 15QnJVo125812Z3\nInvoice# 83853\nDate: July 20, 2024\nSL. Item Description Price Qty. Total\n1 Intuitive homogeneous leverage $261.8 5 $1309.0\n2 Devolved human-resource info-mediaries $925.66 1 $925.66\n3 Quality-focused zero administration task-force $801.86 3 $2405.58\nSubtotal $4640.24\nTax $413.87\nTotal $5054.11\nSupplier Details: Reyes, Cooper and Aguirre GSTIN: 20DuhZP088551Z2\nPayment Terms: Net 15 days\nBank Info: Johns, Robinson and Wright A/C 380071424"
+    },
+    {
+        "invoice_number": "97565",
+        "invoice_date": "12 / 05 / 2023",
+        "invoice_amount": "1748.23",
+        "buyer_gstin": "37BFJNb397626Z9",
+        "supplier_gstin": "32qybTz782536Z5",
+        "text": "Warner, Dunlap and Delgado Invoice\nInvoice# 97565\nInvoice Date: 12 / 05 / 2023\nTo: Sanchez PLC, GSTIN: 37BFJNb397626Z9\nDetails:\n1 Grass-roots dedicated implementation $504.2 3 $1512.6\nSubtotal: $1512.6\nTotal: $1748.23\nSupplier GSTIN: 32qybTz782536Z5\n"
+    },
+    {
+        "invoice_number": "63784",
+        "invoice_date": "13 / 07 / 2022",
+        "invoice_amount": "1020.9",
+        "buyer_gstin": "27gbVzy939604Z4",
+        "supplier_gstin": "03QfWPl221693Z7",
+        "text": "Wong, Hutchinson and Trujillo Billing Invoice\nInvoice# 63784\nDate of Invoice: 13 / 07 / 2022\nCustomer: Smith-Douglas GSTIN: 27gbVzy939604Z4\nDetails of Services:\n1 Inverse executive middleware $259.42 2 $518.84\n2 Versatile zero-defect paradigm $230.85 2 $461.7\nSubtotal: $980.54\nTax: $40.36\nFinal Amount: $1020.9\nSupplier GSTIN: 03QfWPl221693Z7"
+    },
+    {
+        "invoice_number": "13848",
+        "invoice_date": "04-07-2022",
+        "invoice_amount": "3237.25",
+        "buyer_gstin": "14ghneR747816Z9",
+        "supplier_gstin": "03onCCW988251Z7",
+        "text": "Invoice Summary\nNumber: 13848\nDate: 04-07-2022\nBilled To: Thomas and Sons GSTIN: 14ghneR747816Z9\nItems:\n1 Virtual uniform installation $617.4 3 $1852.2\n2 Persistent disintermediate capability $567.48 2 $1134.96\nSubtotal: $2987.16\nTotal Amount: $3237.25\nSupplier GSTIN: 03onCCW988251Z7\n"
+    },
+    {
+        "invoice_number": "75091",
+        "invoice_date": "January 11, 2024",
+        "invoice_amount": "2609.19",
+        "buyer_gstin": "03ZQxAO706676Z2",
+        "supplier_gstin": "09nsshB290109Z6",
+        "text": "Invoice from Jones, Allen and Moore\nInvoice# 75091\nInvoice Date: January 11, 2024\nFor: Daniel, Brown and Gray, GSTIN: 03ZQxAO706676Z2\nSL. Item Description Price Qty. Total\n1 Cross-group 3rdgeneration hub $239.8 2 $479.6\n2 Profound global service-desk $461.27 4 $1845.08\nSubtotal: $2324.68\nTotal Amount: $2609.19\nSupplier GSTIN: 09nsshB290109Z6"
+    },
+    {
+        "invoice_number": "42177",
+        "invoice_date": "2020-11-03",
+        "invoice_amount": "1590.44",
+        "buyer_gstin": "10FJojo454442Z8",
+        "supplier_gstin": "16dzKBm136054Z6",
+        "text": "Mckinney LLC Invoice\nInvoice# 42177\nInvoice Date: 2020-11-03\nTo: Davis Ltd, GSTIN: 10FJojo454442Z8\nDetails:\n1 Progressive human-resource extranet $497.86 3 $1493.58\nSubtotal: $1493.58\nTotal: $1590.44\nSupplier GSTIN: 16dzKBm136054Z6\n"
+    },
+    {
+        "invoice_number": "88157",
+        "invoice_date": "2021-09-05",
+        "invoice_amount": "2352.6",
+        "buyer_gstin": "24hHxaW254952Z7",
+        "supplier_gstin": "34XJrjs893406Z4",
+        "text": "Invoice Summary\nNumber: 88157\nDate: 2021-09-05\nBilled To: Hall-Marsh GSTIN: 24hHxaW254952Z7\nItems:\n1 Customizable real-time help-desk $212.64 3 $637.92\n2 Customizable demand-driven projection $793.86 2 $1587.72\nSubtotal: $2225.64\nTotal Amount: $2352.6\nSupplier GSTIN: 34XJrjs893406Z4\n"
+    },
+    {
+        "invoice_number": "53655",
+        "invoice_date": "21-04-2022",
+        "invoice_amount": "1929.31",
+        "buyer_gstin": "26bLRFT546295Z7",
+        "supplier_gstin": "34SdGrQ764982Z7",
+        "text": "Supplier: Davis, Johnson and Stephenson INVOICE\nInvoice# 53655\nDate: 21-04-2022\nBill to: Steele, Moses and Davidson 054 Howe Ferry Apt. 819\nSouth Austinstad, AZ 47348 GSTIN: 26bLRFT546295Z7\nSL. Item Description Price Qty. Total\n1 Self-enabling demand-driven support $161.82 3 $485.46\n2 Down-sized grid-enabled focus group $354.65 4 $1418.6\nTotal $1929.31\nSupplier GSTIN: 34SdGrQ764982Z7\nPayment: Salazar-Miller A/C 6640579642"
+    },
+    {
+        "invoice_number": "53844",
+        "invoice_date": "2019-10-31",
+        "invoice_amount": "2489.16",
+        "buyer_gstin": "13OlriD592347Z8",
+        "supplier_gstin": "15lZQEP109482Z1",
+        "text": "Fischer PLC Billing Invoice\nInvoice# 53844\nDate of Invoice: 2019-10-31\nCustomer: Mckinney-Robinson GSTIN: 13OlriD592347Z8\nDetails of Services:\n1 Profound encompassing concept $213.62 5 $1068.1\n2 Ameliorated content-based structure $355.24 3 $1065.72\nSubtotal: $2133.8199999999997\nTax: $355.34\nFinal Amount: $2489.16\nSupplier GSTIN: 15lZQEP109482Z1"
+    },
+    {
+        "invoice_number": "36092",
+        "invoice_date": "2024-02-10",
+        "invoice_amount": "2638.36",
+        "buyer_gstin": "21sPXIQ391260Z8",
+        "supplier_gstin": "32SurpY268831Z2",
+        "text": "Baker-Gonzales Invoice\nInvoice# 36092\nInvoice Date: 2024-02-10\nTo: Armstrong, Campbell and Reed, GSTIN: 21sPXIQ391260Z8\nDetails:\n1 Progressive demand-driven capacity $605.94 3 $1817.82\n2 Ergonomic composite Internet solution $500.74 1 $500.74\nSubtotal: $2318.5600000000004\nTotal: $2638.36\nSupplier GSTIN: 32SurpY268831Z2\n"
+    },
+    {
+        "invoice_number": "44301",
+        "invoice_date": "2021-07-10",
+        "invoice_amount": "3776.19",
+        "buyer_gstin": "24GSbEs568969Z4",
+        "supplier_gstin": "17iQExq164258Z8",
+        "text": "Tech Innovations INVOICE\nInvoice# 44301\nDate: 2021-07-10\nTo: Francis-Mitchell GSTIN: 24GSbEs568969Z4\nSL. Item Description Price Qty. Total\n1 Open-architected regional knowledgebase $744.77 2 $1489.54\n2 Assimilated foreground strategy $626.88 3 $1880.64\nSubtotal $3370.18\nTotal $3776.19\nSupplier Details: Fernandez LLC GSTIN: 17iQExq164258Z8\nPayment Terms: Net 30 days"
+    },
+    {
+        "invoice_number": "60007",
+        "invoice_date": "March 19, 2023",
+        "invoice_amount": "7095.92",
+        "buyer_gstin": "31iuhOf909036Z7",
+        "supplier_gstin": "01pfXxB577189Z6",
+        "text": "Morales Inc Billing Invoice\nInvoice# 60007\nDate of Invoice: March 19, 2023\nCustomer: Zavala, Pham and Robinson GSTIN: 31iuhOf909036Z7\nDetails of Services:\n1 Enhanced zero administration knowledge user $347.67 4 $1390.68\n2 Digitized multi-tasking algorithm $908.76 4 $3635.04\n3 Implemented 24/7 conglomeration $619.34 3 $1858.02\nSubtotal: $6883.74\nTax: $212.18\nFinal Amount: $7095.92\nSupplier GSTIN: 01pfXxB577189Z6"
+    },
+    {
+        "invoice_number": "76296",
+        "invoice_date": "August 26, 2024",
+        "invoice_amount": "1033.02",
+        "buyer_gstin": "12SSScR664562Z8",
+        "supplier_gstin": "01axSpk373986Z4",
+        "text": "INVOICE 76296\nDate: August 26, 2024\nBilled To: Chan LLC, GSTIN: 12SSScR664562Z8\nItems:\n1 Customer-focused multimedia hub $528.37 1 $528.37\n2 Enterprise-wide demand-driven time-frame $419.68 1 $419.68\nSubtotal: $948.05\nTotal Amount: $1033.02\nSupplier GSTIN: 01axSpk373986Z4"
+    },
+    {
+        "invoice_number": "23356",
+        "invoice_date": "03/17/2024",
+        "invoice_amount": "3570.72",
+        "buyer_gstin": "03rmkyp866833Z9",
+        "supplier_gstin": "24hMmco643856Z4",
+        "text": "Tech Innovations INVOICE\nInvoice# 23356\nDate: 03/17/2024\nTo: Barber Group GSTIN: 03rmkyp866833Z9\nSL. Item Description Price Qty. Total\n1 Advanced stable algorithm $872.91 1 $872.91\n2 Profound dynamic task-force $861.21 3 $2583.63\nSubtotal $3456.54\nTotal $3570.72\nSupplier Details: Ballard Inc GSTIN: 24hMmco643856Z4\nPayment Terms: Net 15 days"
+    },
+    {
+        "invoice_number": "58286",
+        "invoice_date": "10/09/2020",
+        "invoice_amount": "3177.53",
+        "buyer_gstin": "16CMOPJ578338Z5",
+        "supplier_gstin": "32kmktk445553Z7",
+        "text": "Moore-Washington Invoice\nInvoice# 58286\nInvoice Date: 10/09/2020\nTo: Smith-Davis, GSTIN: 16CMOPJ578338Z5\nDetails:\n1 Synchronized dedicated hierarchy $126.93 5 $634.65\n2 Operative systematic collaboration $877.07 2 $1754.14\n3 Self-enabling interactive customer loyalty $273.4 2 $546.8\nSubtotal: $2935.59\nTotal: $3177.53\nSupplier GSTIN: 32kmktk445553Z7\n"
+    },
+    {
+        "invoice_number": "61696",
+        "invoice_date": "11/17/2021",
+        "invoice_amount": "585.12",
+        "buyer_gstin": "09gMLoh542538Z7",
+        "supplier_gstin": "05CAXba889644Z1",
+        "text": "Invoice from Lamb, Smith and Hicks\nInvoice# 61696\nInvoice Date: 11/17/2021\nFor: Shannon-Hensley, GSTIN: 09gMLoh542538Z7\nSL. Item Description Price Qty. Total\n1 Re-engineered intangible task-force $167.67 3 $503.01\nSubtotal: $503.01\nTotal Amount: $585.12\nSupplier GSTIN: 05CAXba889644Z1"
+    },
+    {
+        "invoice_number": "27837",
+        "invoice_date": "2023-10-27",
+        "invoice_amount": "1171.89",
+        "buyer_gstin": "07KEeFP314003Z6",
+        "supplier_gstin": "24XwVhu775156Z2",
+        "text": "Davis, Odonnell and Francis Billing Invoice\nInvoice# 27837\nDate of Invoice: 2023-10-27\nCustomer: Martin-Davis GSTIN: 07KEeFP314003Z6\nDetails of Services:\n1 Multi-channeled discrete initiative $206.03 5 $1030.15\nSubtotal: $1030.15\nTax: $141.74\nFinal Amount: $1171.89\nSupplier GSTIN: 24XwVhu775156Z2"
+    },
+    {
+        "invoice_number": "98445",
+        "invoice_date": "07/10/2021",
+        "invoice_amount": "1635.93",
+        "buyer_gstin": "33mhqNd373054Z7",
+        "supplier_gstin": "30czBfZ672056Z9",
+        "text": "Wells-James Invoice\nInvoice# 98445\nInvoice Date: 07/10/2021\nTo: Santos, Adkins and Villanueva, GSTIN: 33mhqNd373054Z7\nDetails:\n1 Extended 5thgeneration workforce $274.97 1 $274.97\n2 Function-based demand-driven support $643.07 2 $1286.14\nSubtotal: $1561.1100000000001\nTotal: $1635.93\nSupplier GSTIN: 30czBfZ672056Z9\n"
+    },
+    {
+        "invoice_number": "60889",
+        "invoice_date": "November 01, 2020",
+        "invoice_amount": "3990.19",
+        "buyer_gstin": "29jWBbD440093Z5",
+        "supplier_gstin": "22oLpkV605578Z2",
+        "text": "INVOICE\nInvoice# 60889\nInvoice to: Johnson, Johnson and Wise, 894 Tucker Dam Suite 133\nLake Summerfurt, DC 56266 GSTIN: 29jWBbD440093Z5\nDate: November 01, 2020\nSL. Item Description Price Qty. Total\n1 Configurable human-resource algorithm $308.03 3 $924.09\n2 Phased methodical archive $844.17 3 $2532.51\nSubtotal $3456.5999999999995\nTax $15.44%\nTotal $3990.19\nBuyer GSTIN: 29jWBbD440093Z5\nSupplier GSTIN: 22oLpkV605578Z2"
+    },
+    {
+        "invoice_number": "88313",
+        "invoice_date": "05-05-2024",
+        "invoice_amount": "8034.07",
+        "buyer_gstin": "05toHrS473038Z6",
+        "supplier_gstin": "21slraD961722Z7",
+        "text": "Invoice from Carter and Sons\nInvoice# 88313\nInvoice Date: 05-05-2024\nFor: Lopez-French, GSTIN: 05toHrS473038Z6\nSL. Item Description Price Qty. Total\n1 Cloned web-enabled leverage $575.35 2 $1150.7\n2 Front-line coherent productivity $967.14 5 $4835.7\n3 Cross-group zero administration process improvement $898.91 1 $898.91\nSubtotal: $6885.3099999999995\nTotal Amount: $8034.07\nSupplier GSTIN: 21slraD961722Z7"
+    },
+    {
+        "invoice_number": "95567",
+        "invoice_date": "2023-11-06",
+        "invoice_amount": "10003.23",
+        "buyer_gstin": "10AVlgU596038Z9",
+        "supplier_gstin": "35cwNoO845719Z3",
+        "text": "Invoice Summary\nNumber: 95567\nDate: 2023-11-06\nBilled To: Thomas, Medina and Chang GSTIN: 10AVlgU596038Z9\nItems:\n1 Secured bandwidth-monitored product $787.53 5 $3937.65\n2 Inverse global attitude $698.76 2 $1397.52\n3 Automated intangible solution $831.87 5 $4159.35\nSubtotal: $9494.52\nTotal Amount: $10003.23\nSupplier GSTIN: 35cwNoO845719Z3\n"
+    },
+    {
+        "invoice_number": "52711",
+        "invoice_date": "13 / 03 / 2020",
+        "invoice_amount": "8645.39",
+        "buyer_gstin": "36pdCKQ983865Z5",
+        "supplier_gstin": "05svdLr344880Z4",
+        "text": "Miller Group Invoice\nInvoice# 52711\nInvoice Date: 13 / 03 / 2020\nTo: Keller, Johnson and Garcia, GSTIN: 36pdCKQ983865Z5\nDetails:\n1 Right-sized leadingedge pricing structure $717.5 5 $3587.5\n2 Focused global attitude $671.7 3 $2015.1\n3 Digitized reciprocal portal $801.92 3 $2405.76\nSubtotal: $8008.36\nTotal: $8645.39\nSupplier GSTIN: 05svdLr344880Z4\n"
+    },
+    {
+        "invoice_number": "22288",
+        "invoice_date": "11/18/2022",
+        "invoice_amount": "7910.18",
+        "buyer_gstin": "13CFKVf221394Z5",
+        "supplier_gstin": "35QhdDR593759Z2",
+        "text": "Garcia, Gray and Huff Invoice\nInvoice# 22288\nInvoice Date: 11/18/2022\nTo: Morales, Luna and Nunez, GSTIN: 13CFKVf221394Z5\nDetails:\n1 Organized tangible attitude $207.78 3 $623.34\n2 Progressive methodical pricing structure $663.21 5 $3316.05\n3 Progressive directional definition $625.83 5 $3129.15\nSubtotal: $7068.54\nTotal: $7910.18\nSupplier GSTIN: 35QhdDR593759Z2\n"
+    },
+    {
+        "invoice_number": "21896",
+        "invoice_date": "20 / 10 / 2019",
+        "invoice_amount": "1391.76",
+        "buyer_gstin": "13CptSY406916Z3",
+        "supplier_gstin": "19oSBwG329452Z6",
+        "text": "Company Pollard, Waller and Porter INVOICE\nInvoice to: Alicia Burton\n914 Pittman Road\nMoralesburgh, MA 74188 GSTIN: 13CptSY406916Z3\nInvoice# 21896\nDate: 20 / 10 / 2019\nSL. Item Description Price Qty. Total\n1 Focused uniform analyzer $671.24 2 $1342.48\nSubtotal $1342.48\nTax $49.28\nTotal $1391.76\nSupplier Details: Rice PLC GSTIN: 19oSBwG329452Z6\nPayment Terms: Net 30 days\nBank Info: Bird-Bradley A/C 5170310654"
+    },
+    {
+        "invoice_number": "29436",
+        "invoice_date": "July 14, 2021",
+        "invoice_amount": "4669.86",
+        "buyer_gstin": "23Jtopi407498Z3",
+        "supplier_gstin": "22xCnfm948371Z3",
+        "text": "Supplier: Cole, Mccarty and Mcneil INVOICE\nInvoice# 29436\nDate: July 14, 2021\nBill to: Brennan, Cervantes and Barton 08451 Alisha Pass Apt. 681\nLake Johnnyville, OK 06113 GSTIN: 23Jtopi407498Z3\nSL. Item Description Price Qty. Total\n1 Multi-tiered 6thgeneration emulation $684.97 3 $2054.91\n2 Reactive system-worthy website $377.31 2 $754.62\n3 Customizable full-range Graphical User Interface $742.1 2 $1484.2\nTotal $4669.86\nSupplier GSTIN: 22xCnfm948371Z3\nPayment: Anderson-Barron A/C 6561816340"
+    },
+    {
+        "invoice_number": "62864",
+        "invoice_date": "06/07/2023",
+        "invoice_amount": "735.29",
+        "buyer_gstin": "09TRNNc013610Z2",
+        "supplier_gstin": "27Stbpl535395Z5",
+        "text": "INVOICE\nInvoice# 62864\nInvoice to: Daniel-Gardner, 914 Salas Prairie Apt. 060\nAmandachester, VA 11574 GSTIN: 09TRNNc013610Z2\nDate: 06/07/2023\nSL. Item Description Price Qty. Total\n1 Synergized value-added model $690.79 1 $690.79\nSubtotal $690.79\nTax $6.44%\nTotal $735.29\nBuyer GSTIN: 09TRNNc013610Z2\nSupplier GSTIN: 27Stbpl535395Z5"
+    },
+    {
+        "invoice_number": "50416",
+        "invoice_date": "15 / 05 / 2024",
+        "invoice_amount": "3696.34",
+        "buyer_gstin": "02uJItl825153Z2",
+        "supplier_gstin": "16eoDah732295Z1",
+        "text": "Brooks, Oconnor and Kim Invoice\nInvoice# 50416\nInvoice Date: 15 / 05 / 2024\nTo: Baldwin, Williams and Peterson, GSTIN: 02uJItl825153Z2\nDetails:\n1 Configurable methodical Graphic Interface $490.15 1 $490.15\n2 Upgradable contextually-based throughput $136.7 5 $683.5\n3 Public-key executive approach $401.25 5 $2006.25\nSubtotal: $3179.9\nTotal: $3696.34\nSupplier GSTIN: 16eoDah732295Z1\n"
+    },
+    {
+        "invoice_number": "63354",
+        "invoice_date": "05.07.2023",
+        "invoice_amount": "282.25",
+        "buyer_gstin": "34TdBED987889Z3",
+        "supplier_gstin": "37oHrcS976749Z9",
+        "text": "Supplier: Martinez-Johnson INVOICE\nInvoice# 63354\nDate: 05.07.2023\nBill to: Harris Group 8055 Moreno Lock\nAnnettehaven, MI 31308 GSTIN: 34TdBED987889Z3\nSL. Item Description Price Qty. Total\n1 Balanced responsive projection $120.04 2 $240.08\nTotal $282.25\nSupplier GSTIN: 37oHrcS976749Z9\nPayment: Berg-Lopez A/C 6049937803"
+    },
+    {
+        "invoice_number": "59226",
+        "invoice_date": "22 / 03 / 2020",
+        "invoice_amount": "3001.95",
+        "buyer_gstin": "08hxicf895812Z8",
+        "supplier_gstin": "11EuYeh755705Z9",
+        "text": "Jackson-Garcia Invoice\nInvoice# 59226\nInvoice Date: 22 / 03 / 2020\nTo: Barker, Brewer and Young, GSTIN: 08hxicf895812Z8\nDetails:\n1 De-engineered hybrid encryption $917.96 3 $2753.88\nSubtotal: $2753.88\nTotal: $3001.95\nSupplier GSTIN: 11EuYeh755705Z9\n"
+    },
+    {
+        "invoice_number": "66972",
+        "invoice_date": "05.05.2021",
+        "invoice_amount": "3179.01",
+        "buyer_gstin": "13EqGIU977166Z4",
+        "supplier_gstin": "05oqeXE747188Z8",
+        "text": "Supplier: Brown-Taylor INVOICE\nInvoice# 66972\nDate: 05.05.2021\nBill to: Malone and Sons 247 Katherine Falls Apt. 690\nHansenbury, VI 28806 GSTIN: 13EqGIU977166Z4\nSL. Item Description Price Qty. Total\n1 Face-to-face systemic alliance $744.26 2 $1488.52\n2 Diverse system-worthy infrastructure $183.53 5 $917.65\n3 Reverse-engineered fresh-thinking conglomeration $110.16 5 $550.8\nTotal $3179.01\nSupplier GSTIN: 05oqeXE747188Z8\nPayment: Phillips Ltd A/C 3356032254"
+    },
+    {
+        "invoice_number": "90393",
+        "invoice_date": "25-06-2021",
+        "invoice_amount": "7239.06",
+        "buyer_gstin": "13QoyDm126112Z4",
+        "supplier_gstin": "24xxxwI064796Z2",
+        "text": "Invoice Summary\nNumber: 90393\nDate: 25-06-2021\nBilled To: Kelly Group GSTIN: 13QoyDm126112Z4\nItems:\n1 Optimized context-sensitive leverage $548.27 3 $1644.81\n2 Horizontal multi-state capacity $827.86 4 $3311.44\n3 Expanded well-modulated algorithm $882.75 2 $1765.5\nSubtotal: $6721.75\nTotal Amount: $7239.06\nSupplier GSTIN: 24xxxwI064796Z2\n"
+    },
+    {
+        "invoice_number": "66520",
+        "invoice_date": "06-03-2022",
+        "invoice_amount": "857.27",
+        "buyer_gstin": "01MZhRE620441Z4",
+        "supplier_gstin": "10IOnLK583464Z4",
+        "text": "Supplier: Weaver Inc INVOICE\nInvoice# 66520\nDate: 06-03-2022\nBill to: Moon-Wong 458 Andrea Forest Suite 817\nSouth Chrisborough, VI 63145 GSTIN: 01MZhRE620441Z4\nSL. Item Description Price Qty. Total\n1 Distributed system-worthy flexibility $184.67 4 $738.68\nTotal $857.27\nSupplier GSTIN: 10IOnLK583464Z4\nPayment: Davis Ltd A/C 827956354"
+    },
+    {
+        "invoice_number": "16910",
+        "invoice_date": "2024-05-22",
+        "invoice_amount": "1913.51",
+        "buyer_gstin": "02YaXgv813480Z6",
+        "supplier_gstin": "31egjze105008Z1",
+        "text": "Invoice Summary\nNumber: 16910\nDate: 2024-05-22\nBilled To: Sutton-Sanchez GSTIN: 02YaXgv813480Z6\nItems:\n1 Reverse-engineered transitional capability $907.65 2 $1815.3\nSubtotal: $1815.3\nTotal Amount: $1913.51\nSupplier GSTIN: 31egjze105008Z1\n"
+    },
+    {
+        "invoice_number": "90306",
+        "invoice_date": "2023-06-02",
+        "invoice_amount": "5484.04",
+        "buyer_gstin": "34ALAJF574170Z5",
+        "supplier_gstin": "18VvWJl802371Z1",
+        "text": "Tech Innovations INVOICE\nInvoice# 90306\nDate: 2023-06-02\nTo: Baker PLC GSTIN: 34ALAJF574170Z5\nSL. Item Description Price Qty. Total\n1 Synchronized incremental budgetary management $939.81 5 $4699.05\nSubtotal $4699.049999999999\nTotal $5484.04\nSupplier Details: Casey Ltd GSTIN: 18VvWJl802371Z1\nPayment Terms: Net 30 days"
+    }
+]

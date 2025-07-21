@@ -1,0 +1,189 @@
+[
+    {
+        "invoice_number": "87432",
+        "invoice_date": "15 / 03 / 2021",
+        "invoice_amount": "530.75",
+        "buyer_gstin": "27AAACI1121A1Z2",
+        "supplier_gstin": "29ABCDE1234F1Z5",
+        "text": "Company XYZ FR INVOICE Invoice to: John Doe Invoice# 87432 123 Main Street, Apt 45A Cityville, State Date 15 / 03 / 2021 SL. Item Description Price Qty. Total 1 Product A $100.00 2 $200.00 2 Product B $165.25 2 $330.50 Subtotal $530.50 Tax 0.25 $0.25 Total $530.75 Payment Terms: Net 30 days Bank Info: XYZ Bank, A/C 1234567890"
+    },
+    {
+        "invoice_number": "10293",
+        "invoice_date": "05 / 07 / 2019",
+        "invoice_amount": "785.00",
+        "buyer_gstin": "19FGHJ6789I2Z3",
+        "supplier_gstin": "23KLMN4567O3P4",
+        "text": "Brand Alpha INVOICE Invoice to: ABC Corp Invoice# 10293 99 Tech Park, Suite 500 Cityname Date 05 / 07 / 2019 SL. Item Description Price Qty. Total 1 Service X $150.00 3 $450.00 2 Service Y $175.00 1 $175.00 Subtotal $625.00 Tax (CGST + SGST) $160.00 Total $785.00 Bank Details: XYZ Bank IFSC: ABCD12345"
+    },
+    {
+        "invoice_number": "45120",
+        "invoice_date": "18 / 11 / 2022",
+        "invoice_amount": "1200.50",
+        "buyer_gstin": null,
+        "supplier_gstin": "31OPQ12345R6S7",
+        "text": "Company Zeta INVOICE Invoice to: Zeta Technologies Invoice# 45120 456 Industrial Road Suite 210 Tech City, ST Date 18 / 11 / 2022 SL. Item Description Price Qty. Total 1 Equipment A $600.00 1 $600.00 2 Equipment B $300.25 2 $600.50 Subtotal $1200.50 Tax 0.00% Total $1200.50 Payment Instructions: Net 15 days Bank: Zeta Bank Account No: 876543210"
+    },
+    {
+        "invoice_number": "INV-12345",
+        "invoice_date": "05/08/2023",
+        "invoice_amount": "2500.00",
+        "buyer_gstin": null,
+        "supplier_gstin": null,
+        "text": "INVOICE # INV-12345 Balance Due $2500.00 123 Design Studios 221B, Baker Street London, UK Bill To Mark Anthony 453 Elm Street Manchester UK Ship To 453 Elm Street Manchester UK Invoice Date : 05 Aug 2023 Terms : Net 30 Days # Item & Description Qty Rate Amount 1 Graphic Design Service 1.00 2500.00 2500.00 Sub Total 2500.00 Total $2500.00 Balance Due $2500.00 Thank you for your business."
+    },
+    {
+        "invoice_number": "INV-23456",
+        "invoice_date": "12 July 2023",
+        "invoice_amount": "1450.00",
+        "buyer_gstin": null,
+        "supplier_gstin": null,
+        "text": "INVOICE # INV-23456 Balance Due $1450.00 Creative Art Solutions 56 Avenue Street Brooklyn, New York U.S.A Bill To Sarah Walker 1500 Oak Street Los Angeles CA Ship To 1500 Oak Street Los Angeles CA Invoice Date : 12 July 2023 Terms : Due on Receipt # Item & Description Qty Rate Amount 1 Logo Design Package 1.00 1450.00 1450.00 Sub Total 1450.00 Total $1450.00 Balance Due $1450.00 Notes Thanks for your business."
+    },
+    {
+        "invoice_number": "INV-56789",
+        "invoice_date": "02/06/2023",
+        "invoice_amount": "3950.00",
+        "buyer_gstin": null,
+        "supplier_gstin": null,
+        "text": "INVOICE # INV-56789 Balance Due $3950.00 TechCorp Solutions 789 Market Street San Francisco, CA Bill To Richard Brown 101 Main Street Chicago IL Ship To 101 Main Street Chicago IL Invoice Date : 02 June 2023 Terms : Net 45 Days # Item & Description Qty Rate Amount 1 Web Development Service 1.00 3950.00 3950.00 Sub Total 3950.00 Total $3950.00 Balance Due $3950.00 Thank you for choosing TechCorp."
+    },
+    {
+        "invoice_number": "INV-09876",
+        "invoice_date": "09/04/2023",
+        "invoice_amount": "1750.00",
+        "buyer_gstin": null,
+        "supplier_gstin": null,
+        "text": "INVOICE # INV-09876 Balance Due $1750.00 Digital Creations 303 Pine Street Dallas, TX Bill To Jane Smith 222 Maple Avenue Miami FL Ship To 222 Maple Avenue Miami FL Invoice Date : 09 April 2023 Terms : Due on Receipt # Item & Description Qty Rate Amount 1 Social Media Management 1.00 1750.00 1750.00 Sub Total 1750.00 Total $1750.00 Balance Due $1750.00 Notes We appreciate your business."
+    },
+    {
+        "invoice_number": "INV-34567",
+        "invoice_date": "15/05/2023",
+        "invoice_amount": "3200.00",
+        "buyer_gstin": null,
+        "supplier_gstin": null,
+        "text": "INVOICE # INV-34567 Balance Due $3200.00 Spark Innovations 21 Wall Street New York, NY Bill To David Johnson 12 Sunset Blvd Los Angeles CA Ship To 12 Sunset Blvd Los Angeles CA Invoice Date : 15 May 2023 Terms : Net 30 Days # Item & Description Qty Rate Amount 1 Branding Package 1.00 3200.00 3200.00 Sub Total 3200.00 Total $3200.00 Balance Due $3200.00 Thank you for doing business with us."
+    },
+    {
+        "invoice_number": "INV-65432",
+        "invoice_date": "22 August 2023",
+        "invoice_amount": "1980.00",
+        "buyer_gstin": null,
+        "supplier_gstin": null,
+        "text": "INVOICE # INV-65432 Balance Due $1980.00 Graphix Studio 101 River Road Portland OR Bill To Emma Wilson 456 Park Avenue Boston MA Ship To 456 Park Avenue Boston MA Invoice Date : 22 August 2023 Terms : Due on Receipt # Item & Description Qty Rate Amount 1 Graphic Design Services 1.00 1980.00 1980.00 Sub Total 1980.00 Total $1980.00 Balance Due $1980.00 Notes Thank you for choosing Graphix Studio."
+    },
+    {
+        "invoice_number": "INV-78543",
+        "invoice_date": "05 March 2023",
+        "invoice_amount": "2650.00",
+        "buyer_gstin": null,
+        "supplier_gstin": null,
+        "text": "INVOICE # INV-78543 Balance Due $2650.00 Bright Marketing 303 East Street Seattle WA Bill To Alex Green 789 Cedar Lane Austin TX Ship To 789 Cedar Lane Austin TX Invoice Date : 05 March 2023 Terms : Net 30 Days # Item & Description Qty Rate Amount 1 Marketing Consulting 1.00 2650.00 2650.00 Sub Total 2650.00 Total $2650.00 Balance Due $2650.00 We appreciate your business."
+    },
+    {
+        "invoice_number": "INV-87654",
+        "invoice_date": "16 February 2023",
+        "invoice_amount": "4890.00",
+        "buyer_gstin": null,
+        "supplier_gstin": null,
+        "text": "INVOICE # INV-87654 Balance Due $4890.00 Code Masters 9876 Tech Lane Silicon Valley CA Bill To Michael Davis 123 Oak Drive Denver CO Ship To 123 Oak Drive Denver CO Invoice Date : 16 February 2023 Terms : Net 45 Days # Item & Description Qty Rate Amount 1 Custom Software Development 1.00 4890.00 4890.00 Sub Total 4890.00 Total $4890.00 Balance Due $4890.00 Thank you for choosing Code Masters."
+    },
+    {
+        "invoice_number": "INV-91234",
+        "invoice_date": "29/06/2023",
+        "invoice_amount": "1275.00",
+        "buyer_gstin": null,
+        "supplier_gstin": null,
+        "text": "INVOICE # INV-91234 Balance Due $1275.00 Web Creators 789 Sunset Blvd Miami FL Bill To Lily Scott 987 Willow Avenue Orlando FL Ship To 987 Willow Avenue Orlando FL Invoice Date : 29 June 2023 Terms : Due on Receipt # Item & Description Qty Rate Amount 1 Website Maintenance 1.00 1275.00 1275.00 Sub Total 1275.00 Total $1275.00 Balance Due $1275.00 Notes Thank you for your business."
+    },
+    {
+        "invoice_number": "INV-123456",
+        "invoice_date": "15/07/2023",
+        "invoice_amount": "5600.00",
+        "buyer_gstin": null,
+        "supplier_gstin": null,
+        "text": "INVOICE # INV-123456 Balance Due $5600.00 Tech Solutions 123 Innovation Way Palo Alto CA Bill To John White 456 River Lane Sacramento CA Ship To 456 River Lane Sacramento CA Invoice Date : 15 July 2023 Terms : Net 30 Days # Item & Description Qty Rate Amount 1 IT Consulting Services 1.00 5600.00 5600.00 Sub Total 5600.00 Total $5600.00 Balance Due $5600.00 Thank you for choosing Tech Solutions."
+    },
+    {
+        "invoice_number": "INV-98765",
+        "invoice_date": "25 September 2023",
+        "invoice_amount": "3120.00",
+        "buyer_gstin": null,
+        "supplier_gstin": null,
+        "text": "INVOICE # INV-98765 Balance Due $3120.00 Digital Marketing Pros 999 Broadway New York NY Bill To Alice Blue 3000 Rose Street Houston TX Ship To 3000 Rose Street Houston TX Invoice Date : 25 September 2023 Terms : Due on Receipt # Item & Description Qty Rate Amount 1 Digital Marketing Campaign 1.00 3120.00 3120.00 Sub Total 3120.00 Total $3120.00 Balance Due $3120.00 We appreciate your business."
+    },
+    {
+        "invoice_number": "INV-11111",
+        "invoice_date": "10/10/2023",
+        "invoice_amount": "1900.00",
+        "buyer_gstin": null,
+        "supplier_gstin": null,
+        "text": "INVOICE # INV-11111 Balance Due $1900.00 Media Creators 5005 Elm Street Chicago IL Bill To Charlie Black 1020 Oak Street Atlanta GA Ship To 1020 Oak Street Atlanta GA Invoice Date : 10 October 2023 Terms : Net 15 Days # Item & Description Qty Rate Amount 1 Video Production 1.00 1900.00 1900.00 Sub Total 1900.00 Total $1900.00 Balance Due $1900.00 Thank you for choosing Media Creators."
+    },
+    {
+        "invoice_number": "INV-12121",
+        "invoice_date": "08/08/2023",
+        "invoice_amount": "1500.00",
+        "buyer_gstin": null,
+        "supplier_gstin": null,
+        "text": "INVOICE # INV-12121 Balance Due $1500.00 Web Creators 789 Pine Street Orlando FL Bill To Nina Jones 444 Maple Avenue Charlotte NC Ship To 444 Maple Avenue Charlotte NC Invoice Date : 08 August 2023 Terms : Due on Receipt # Item & Description Qty Rate Amount 1 Website Hosting Services 1.00 1500.00 1500.00 Sub Total 1500.00 Total $1500.00 Balance Due $1500.00 Thank you for your business."
+    },
+    
+    {
+        "invoice_number": "87432",
+        "invoice_date": "15 / 03 / 2021",
+        "invoice_amount": "530.75",
+        "buyer_gstin": "27AAACI1121A1Z2",
+        "supplier_gstin": "29ABCDE1234F1Z5",
+        "text": "Company XYZ FR INVOICE Invoice to: John Doe Invoice# 87432 123 Main Street, Apt 45A Cityville, State Date 15 / 03 / 2021 SL. Item Description Price Qty. Total 1 Product A $100.00 2 $200.00 2 Product B $165.25 2 $330.50 Subtotal $530.50 Tax 0.25 $0.25 Total $530.75 Payment Terms: Net 30 days Bank Info: XYZ Bank, A/C 1234567890"
+    },
+    {
+        "invoice_number": "10293",
+        "invoice_date": "05 / 07 / 2019",
+        "invoice_amount": "785.00",
+        "buyer_gstin": "19FGHJ6789I2Z3",
+        "supplier_gstin": "23KLMN4567O3P4",
+        "text": "Brand Alpha INVOICE Invoice to: ABC Corp Invoice# 10293 99 Tech Park, Suite 500 Cityname Date 05 / 07 / 2019 SL. Item Description Price Qty. Total 1 Service X $150.00 3 $450.00 2 Service Y $175.00 1 $175.00 Subtotal $625.00 Tax (CGST + SGST) $160.00 Total $785.00 Bank Details: XYZ Bank IFSC: ABCD12345"
+    },
+    {
+        "invoice_number": "45120",
+        "invoice_date": "18 / 11 / 2022",
+        "invoice_amount": "1200.50",
+        "buyer_gstin": null,
+        "supplier_gstin": "31OPQ12345R6S7",
+        "text": "Company Zeta INVOICE Invoice to: Zeta Technologies Invoice# 45120 456 Industrial Road Suite 210 Tech City, ST Date 18 / 11 / 2022 SL. Item Description Price Qty. Total 1 Equipment A $600.00 1 $600.00 2 Equipment B $300.25 2 $600.50 Subtotal $1200.50 Tax 0.00% Total $1200.50 Payment Instructions: Net 15 days Bank: Zeta Bank Account No: 876543210"
+    },
+    {
+        "invoice_number": "56789",
+        "invoice_date": "22 / 09 / 2020",
+        "invoice_amount": "1575.75",
+        "buyer_gstin": "24DEFGH1234A1B5",
+        "supplier_gstin": "33HIJK7890C1D6",
+        "text": "Creative Works INVOICE Invoice to: Beta Enterprises Invoice# 56789 12 Innovation Blvd, Tower 6 Technoville, ST Date 22 / 09 / 2020 SL. Item Description Price Qty. Total 1 Design Services $525.25 2 $1050.50 2 Consultation $250.00 2 $500.00 Subtotal $1550.50 Tax $25.25 Total $1575.75 Payment Terms: Net 45 days Bank Info: Creative Bank A/C 9876543210"
+    },
+    {
+        "invoice_number": "20384",
+        "invoice_date": "01 / 06 / 2021",
+        "invoice_amount": "4320.00",
+        "buyer_gstin": "11ABC12345D1Z8",
+        "supplier_gstin": "22XYZ67890E2F3",
+        "text": "Smart Tech Solutions INVOICE Invoice to: Green Corp Invoice# 20384 75 River Street, Suite 201 Big City, ST Date 01 / 06 / 2021 SL. Item Description Price Qty. Total 1 Software Development $2150.00 1 $2150.00 2 System Integration $1085.00 2 $2170.00 Subtotal $4320.00 Tax 0.00% Total $4320.00 Payment Instructions: Net 60 days Bank Info: Smart Bank A/C 123987654321"
+    },
+    {
+        "invoice_number": "78392",
+        "invoice_date": "07 / 01 / 2022",
+        "invoice_amount": "2699.99",
+        "buyer_gstin": "36PQR12345S6T7",
+        "supplier_gstin": "44LMN78901V2W8",
+        "text": "AlphaTech Solutions INVOICE Invoice to: Red Star Logistics Invoice# 78392 888 Logistic Lane, Floor 4 Transport City, ST Date 07 / 01 / 2022 SL. Item Description Price Qty. Total 1 Custom Software $1999.99 1 $1999.99 2 IT Support $350.00 2 $700.00 Subtotal $2699.99 Tax 0.00% Total $2699.99 Payment Instructions: Net 30 days Bank: Alpha Bank, A/C 678901234"
+    },
+    {
+        "invoice_number": "99823",
+        "invoice_date": "15 / 10 / 2022",
+        "invoice_amount": "860.00",
+        "buyer_gstin": "09XYZ67891P0Q2",
+        "supplier_gstin": "18MNO12345L6R7",
+        "text": "Zebra Enterprises INVOICE Invoice to: Orange Industries Invoice# 99823 5 Industrial Park, Suite 100 Manufacturing Town, ST Date 15 / 10 / 2022 SL. Item Description Price Qty. Total 1 Equipment Maintenance $430.00 2 $860.00 Subtotal $860.00 Tax 0.00% Total $860.00 Payment Terms: Net 30 days Bank: Zebra Bank A/C 3456789012"
+    }
+    
+      
+]

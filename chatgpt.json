@@ -1,0 +1,58 @@
+[
+    {
+        "invoice_number": "87432",
+        "invoice_date": "15 / 03 / 2021",
+        "invoice_amount": "530.75",
+        "buyer_gstin": "27AAACI1121A1Z2",
+        "supplier_gstin": "29ABCDE1234F1Z5",
+        "text": "Company XYZ FR INVOICE Invoice to: John Doe Invoice# 87432 123 Main Street, Apt 45A Cityville, State Date 15 / 03 / 2021 SL. Item Description Price Qty. Total 1 Product A $100.00 2 $200.00 2 Product B $165.25 2 $330.50 Subtotal $530.50 Tax 0.25 $0.25 Total $530.75 Payment Terms: Net 30 days Bank Info: XYZ Bank, A/C 1234567890"
+    },
+    {
+        "invoice_number": "10293",
+        "invoice_date": "05 / 07 / 2019",
+        "invoice_amount": "785.00",
+        "buyer_gstin": "19FGHJ6789I2Z3",
+        "supplier_gstin": "23KLMN4567O3P4",
+        "text": "Brand Alpha INVOICE Invoice to: ABC Corp Invoice# 10293 99 Tech Park, Suite 500 Cityname Date 05 / 07 / 2019 SL. Item Description Price Qty. Total 1 Service X $150.00 3 $450.00 2 Service Y $175.00 1 $175.00 Subtotal $625.00 Tax (CGST + SGST) $160.00 Total $785.00 Bank Details: XYZ Bank IFSC: ABCD12345"
+    },
+    {
+        "invoice_number": "45120",
+        "invoice_date": "18 / 11 / 2022",
+        "invoice_amount": "1200.50",
+        "buyer_gstin": null,
+        "supplier_gstin": "31OPQ12345R6S7",
+        "text": "Company Zeta INVOICE Invoice to: Zeta Technologies Invoice# 45120 456 Industrial Road Suite 210 Tech City, ST Date 18 / 11 / 2022 SL. Item Description Price Qty. Total 1 Equipment A $600.00 1 $600.00 2 Equipment B $300.25 2 $600.50 Subtotal $1200.50 Tax 0.00% Total $1200.50 Payment Instructions: Net 15 days Bank: Zeta Bank Account No: 876543210"
+    },
+    {
+        "invoice_number": "56789",
+        "invoice_date": "22 / 09 / 2020",
+        "invoice_amount": "1575.75",
+        "buyer_gstin": "24DEFGH1234A1B5",
+        "supplier_gstin": "33HIJK7890C1D6",
+        "text": "Creative Works INVOICE Invoice to: Beta Enterprises Invoice# 56789 12 Innovation Blvd, Tower 6 Technoville, ST Date 22 / 09 / 2020 SL. Item Description Price Qty. Total 1 Design Services $525.25 2 $1050.50 2 Consultation $250.00 2 $500.00 Subtotal $1550.50 Tax $25.25 Total $1575.75 Payment Terms: Net 45 days Bank Info: Creative Bank A/C 9876543210"
+    },
+    {
+        "invoice_number": "20384",
+        "invoice_date": "01 / 06 / 2021",
+        "invoice_amount": "4320.00",
+        "buyer_gstin": "11ABC12345D1Z8",
+        "supplier_gstin": "22XYZ67890E2F3",
+        "text": "Smart Tech Solutions INVOICE Invoice to: Green Corp Invoice# 20384 75 River Street, Suite 201 Big City, ST Date 01 / 06 / 2021 SL. Item Description Price Qty. Total 1 Software Development $2150.00 1 $2150.00 2 System Integration $1085.00 2 $2170.00 Subtotal $4320.00 Tax 0.00% Total $4320.00 Payment Instructions: Net 60 days Bank Info: Smart Bank A/C 123987654321"
+    },
+    {
+        "invoice_number": "78392",
+        "invoice_date": "07 / 01 / 2022",
+        "invoice_amount": "2699.99",
+        "buyer_gstin": "36PQR12345S6T7",
+        "supplier_gstin": "44LMN78901V2W8",
+        "text": "AlphaTech Solutions INVOICE Invoice to: Red Star Logistics Invoice# 78392 888 Logistic Lane, Floor 4 Transport City, ST Date 07 / 01 / 2022 SL. Item Description Price Qty. Total 1 Custom Software $1999.99 1 $1999.99 2 IT Support $350.00 2 $700.00 Subtotal $2699.99 Tax 0.00% Total $2699.99 Payment Instructions: Net 30 days Bank: Alpha Bank, A/C 678901234"
+    },
+    {
+        "invoice_number": "99823",
+        "invoice_date": "15 / 10 / 2022",
+        "invoice_amount": "860.00",
+        "buyer_gstin": "09XYZ67891P0Q2",
+        "supplier_gstin": "18MNO12345L6R7",
+        "text": "Zebra Enterprises INVOICE Invoice to: Orange Industries Invoice# 99823 5 Industrial Park, Suite 100 Manufacturing Town, ST Date 15 / 10 / 2022 SL. Item Description Price Qty. Total 1 Equipment Maintenance $430.00 2 $860.00 Subtotal $860.00 Tax 0.00% Total $860.00 Payment Terms: Net 30 days Bank: Zebra Bank A/C 3456789012"
+    }
+]
